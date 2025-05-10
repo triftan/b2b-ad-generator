@@ -1,3 +1,1 @@
-# B2B Ad Generator
-
-Generate high-converting ad copy using timeless frameworks.
+# B2B Ad Generator with Images\n\nGenerate ad copy + real AI images using OpenAI GPT-4 and DALL·E.
